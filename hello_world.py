@@ -7,6 +7,7 @@
 
 def main():
     print("Hello, World!")
+    print("\nDone.")
 
 
 if __name__ == "__main__":
